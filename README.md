@@ -6,5 +6,5 @@ Usage: python cybercannon.py [host] [port] [threads]
   
 host: Target domain or IP
 port: Target port
-threads: number of threads (default: 100) 
+threads: number of threads (default: 130) 
 </pre>
